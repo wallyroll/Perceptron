@@ -1,2 +1,2 @@
 # Perceptron
-Python implementation of the Perceptron submitted for a university assignment.
+Python implementation of a Single Layer and Multilayer Perceptron submitted for a university assignment.
